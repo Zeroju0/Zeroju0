@@ -6,7 +6,6 @@ Interested in autonomous driving simulation, industrial communication security, 
 Currently working on:
 - CARLA-CAN based autonomous driving hardware simulation
 - Secure IEC 61850 GOOSE communication with PQC and AES-GCM
-- Classical reinforcement learning for MDP problems
 
 Tech Stack: `Python` `C` `C++` `Linux` `CARLA` `CAN Bus` `PyTorch` `IEC 61850` `GOOSE`
 
